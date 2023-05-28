@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(96, 96, 242);
+    
+}
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin-top: 100px;
+}
+.counter-container span{
+    font-size: 20px;
+    color:white;
+}
+.counter{
+    font-size: 30px;
+    color: yellow;
+    text-shadow: black;
+}
